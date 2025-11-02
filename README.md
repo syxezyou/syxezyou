@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Silencieux!
 
 <p align="center">
-  <a href="https://github.com/VOTRE_NOM_UTILISATEUR">
+  <a href="https://github.com/syxezyou">
     <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Silencieux's GitHub stats" />
   </a>
 </p>
