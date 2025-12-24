@@ -61,8 +61,8 @@ Vous pouvez me retrouver sur :
 
 <br>
 
-### ✨ RiverCore™
+### ✨ BatDev™
 
-Rejoignez la communauté RiverCore™ pour discuter de développement et de projets !
+Rejoignez la communauté BatDeb™ pour discuter de développement et de projets !
 
-[!Discord](https://discord.gg/5VjNqad7)
+[!Discord](https://discord.gg/BFVAKQtb3T)
