@@ -61,8 +61,8 @@ Vous pouvez me retrouver sur :
 
 <br>
 
-### ✨ BatDev™
+### ✨ SharkDev™
 
-Rejoignez la communauté BatDeb™ pour discuter de développement et de projets !
+Rejoignez la communauté SharkDev™ pour discuter de développement et de projets !
 
 [!Discord](https://discord.gg/BFVAKQtb3T)
