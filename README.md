@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:7c3aed&height=210&section=header&text=SYX&fontSize=76&fontColor=ffffff&desc=Developer%20%7C%20Builder%20%7C%20Self-hosting&descAlignY=75" alt="SYX — Developer, Builder, Self-hosting" width="100%"/>
+<img src="./assets/syx-galaxy.svg" alt="SYX — Galaxy Developer" width="100%"/>
 
 # SYX — Développeur indépendant
 
 **FiveM · Full-stack · Infrastructure · Automatisation · IA**
 
-[![GitHub](https://img.shields.io/badge/GitHub-syxezyou-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syxezyou)
+[![Introduction animée](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&background=000000&center=true&vCenter=true&width=680&lines=Bienvenue+dans+mon+univers.;FiveM+%7C+Full-stack+%7C+Self-hosting;Build.+Learn.+Improve.)](https://github.com/syxezyou)
+
+[![GitHub](https://img.shields.io/badge/GitHub-syxezyou-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syxezyou)
 [![Projets](https://img.shields.io/badge/Explorer-mes%20dépôts-7c3aed?style=for-the-badge)](https://github.com/syxezyou?tab=repositories)
 
 </div>
@@ -23,24 +25,24 @@ Mon objectif : construire des projets modulaires, personnalisables, documentés 
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs)
-![Next.js](https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwindcss)
-![MariaDB](https://img.shields.io/badge/MariaDB-18181b?style=for-the-badge&logo=mariadb)
-![MySQL](https://img.shields.io/badge/MySQL-18181b?style=for-the-badge&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-18181b?style=for-the-badge&logo=nginx)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare)
-![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git)
-![Discord](https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=c084fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=c084fc)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=c084fc)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=c084fc)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=c084fc)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=c084fc)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=c084fc)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=c084fc)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=c084fc)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=c084fc)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=c084fc)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=c084fc)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=c084fc)
+![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=c084fc)
 
 </div>
 
@@ -119,8 +121,8 @@ Mon projet d'hébergement de serveurs de jeu et d'applications repose sur l'auto
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syxezyou&show_icons=true&theme=transparent&title_color=a78bfa&icon_color=8b5cf6&text_color=9ca3af&border_color=7c3aed&locale=fr" alt="Statistiques GitHub de SYX" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syxezyou&layout=compact&theme=transparent&title_color=a78bfa&text_color=9ca3af&border_color=7c3aed&locale=fr" alt="Langages des dépôts GitHub de SYX" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=syxezyou&show_icons=true&bg_color=000000&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff&border_color=7c3aed&locale=fr" alt="Statistiques GitHub de SYX" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syxezyou&layout=compact&bg_color=000000&title_color=a78bfa&text_color=e9d5ff&border_color=7c3aed&locale=fr" alt="Langages des dépôts GitHub de SYX" height="165"/>
 
 </div>
 
@@ -136,6 +138,6 @@ Pour discuter d'un projet, proposer une amélioration ou signaler un problème, 
 
 **SYX — Développer, expérimenter, améliorer.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:09090b&height=100&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6d28d9,100:000000&height=100&section=footer" alt="" width="100%"/>
 
 </div>
